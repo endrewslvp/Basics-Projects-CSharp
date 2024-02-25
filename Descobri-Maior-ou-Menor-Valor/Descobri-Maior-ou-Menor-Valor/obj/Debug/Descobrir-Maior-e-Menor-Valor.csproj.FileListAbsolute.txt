@@ -1,0 +1,7 @@
+C:\Users\Endrew\Documents\GitHub\Basics-Projects-CSharp\Descobri-Maior-ou-Menor-Valor\Descobri-Maior-ou-Menor-Valor\bin\Debug\Descobri-Maior-ou-Menor-Valor.exe.config
+C:\Users\Endrew\Documents\GitHub\Basics-Projects-CSharp\Descobri-Maior-ou-Menor-Valor\Descobri-Maior-ou-Menor-Valor\bin\Debug\Descobri-Maior-ou-Menor-Valor.exe
+C:\Users\Endrew\Documents\GitHub\Basics-Projects-CSharp\Descobri-Maior-ou-Menor-Valor\Descobri-Maior-ou-Menor-Valor\bin\Debug\Descobri-Maior-ou-Menor-Valor.pdb
+C:\Users\Endrew\Documents\GitHub\Basics-Projects-CSharp\Descobri-Maior-ou-Menor-Valor\Descobri-Maior-ou-Menor-Valor\obj\Debug\Descobrir-Maior-e-Menor-Valor.csproj.AssemblyReference.cache
+C:\Users\Endrew\Documents\GitHub\Basics-Projects-CSharp\Descobri-Maior-ou-Menor-Valor\Descobri-Maior-ou-Menor-Valor\obj\Debug\Descobrir-Maior-e-Menor-Valor.csproj.CoreCompileInputs.cache
+C:\Users\Endrew\Documents\GitHub\Basics-Projects-CSharp\Descobri-Maior-ou-Menor-Valor\Descobri-Maior-ou-Menor-Valor\obj\Debug\Descobri-Maior-ou-Menor-Valor.exe
+C:\Users\Endrew\Documents\GitHub\Basics-Projects-CSharp\Descobri-Maior-ou-Menor-Valor\Descobri-Maior-ou-Menor-Valor\obj\Debug\Descobri-Maior-ou-Menor-Valor.pdb
