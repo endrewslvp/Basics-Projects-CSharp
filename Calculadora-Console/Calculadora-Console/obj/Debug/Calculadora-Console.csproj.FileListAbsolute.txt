@@ -1,0 +1,7 @@
+C:\Users\Endrew\Documents\GitHub\Basics-Projects-CSharp\Calculadora-Console\Calculadora-Console\bin\Debug\Calculadora-Console.exe.config
+C:\Users\Endrew\Documents\GitHub\Basics-Projects-CSharp\Calculadora-Console\Calculadora-Console\bin\Debug\Calculadora-Console.exe
+C:\Users\Endrew\Documents\GitHub\Basics-Projects-CSharp\Calculadora-Console\Calculadora-Console\bin\Debug\Calculadora-Console.pdb
+C:\Users\Endrew\Documents\GitHub\Basics-Projects-CSharp\Calculadora-Console\Calculadora-Console\obj\Debug\Calculadora-Console.csproj.AssemblyReference.cache
+C:\Users\Endrew\Documents\GitHub\Basics-Projects-CSharp\Calculadora-Console\Calculadora-Console\obj\Debug\Calculadora-Console.csproj.CoreCompileInputs.cache
+C:\Users\Endrew\Documents\GitHub\Basics-Projects-CSharp\Calculadora-Console\Calculadora-Console\obj\Debug\Calculadora-Console.exe
+C:\Users\Endrew\Documents\GitHub\Basics-Projects-CSharp\Calculadora-Console\Calculadora-Console\obj\Debug\Calculadora-Console.pdb
