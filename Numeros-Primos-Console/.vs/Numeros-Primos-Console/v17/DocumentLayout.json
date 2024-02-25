@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Endrew\\Documents\\GitHub\\Basics-Projects-CSharp\\Numeros-Primos-Console\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A88B6B-5A1A-4669-B35A-09A80E5BF80F}|Numeros-Primos-Console\\Numeros-Primos-Console.csproj|c:\\users\\endrew\\documents\\github\\basics-projects-csharp\\numeros-primos-console\\numeros-primos-console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A88B6B-5A1A-4669-B35A-09A80E5BF80F}|Numeros-Primos-Console\\Numeros-Primos-Console.csproj|solutionrelative:numeros-primos-console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Endrew\\Documents\\GitHub\\Basics-Projects-CSharp\\Numeros-Primos-Console\\Numeros-Primos-Console\\Program.cs",
+              "RelativeDocumentMoniker": "Numeros-Primos-Console\\Program.cs",
+              "ToolTip": "C:\\Users\\Endrew\\Documents\\GitHub\\Basics-Projects-CSharp\\Numeros-Primos-Console\\Numeros-Primos-Console\\Program.cs",
+              "RelativeToolTip": "Numeros-Primos-Console\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T21:02:26.295Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\Endrew\Documents\GitHub\Basics-Projects-CSharp\Numeros-Primos-Console\Numeros-Primos-Console\bin\Debug\Numeros-Primos-Console.exe.config
+C:\Users\Endrew\Documents\GitHub\Basics-Projects-CSharp\Numeros-Primos-Console\Numeros-Primos-Console\bin\Debug\Numeros-Primos-Console.exe
+C:\Users\Endrew\Documents\GitHub\Basics-Projects-CSharp\Numeros-Primos-Console\Numeros-Primos-Console\bin\Debug\Numeros-Primos-Console.pdb
+C:\Users\Endrew\Documents\GitHub\Basics-Projects-CSharp\Numeros-Primos-Console\Numeros-Primos-Console\obj\Debug\Numeros-Primos-Console.csproj.AssemblyReference.cache
+C:\Users\Endrew\Documents\GitHub\Basics-Projects-CSharp\Numeros-Primos-Console\Numeros-Primos-Console\obj\Debug\Numeros-Primos-Console.csproj.CoreCompileInputs.cache
+C:\Users\Endrew\Documents\GitHub\Basics-Projects-CSharp\Numeros-Primos-Console\Numeros-Primos-Console\obj\Debug\Numeros-Primos-Console.exe
+C:\Users\Endrew\Documents\GitHub\Basics-Projects-CSharp\Numeros-Primos-Console\Numeros-Primos-Console\obj\Debug\Numeros-Primos-Console.pdb
