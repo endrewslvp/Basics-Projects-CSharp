@@ -1,0 +1,7 @@
+C:\Users\Endrew\Documents\GitHub\Basics-Projects-CSharp\IMC v2\IMC v2\bin\Debug\IMC v2.exe.config
+C:\Users\Endrew\Documents\GitHub\Basics-Projects-CSharp\IMC v2\IMC v2\bin\Debug\IMC v2.exe
+C:\Users\Endrew\Documents\GitHub\Basics-Projects-CSharp\IMC v2\IMC v2\bin\Debug\IMC v2.pdb
+C:\Users\Endrew\Documents\GitHub\Basics-Projects-CSharp\IMC v2\IMC v2\obj\Debug\IMC v2.csproj.AssemblyReference.cache
+C:\Users\Endrew\Documents\GitHub\Basics-Projects-CSharp\IMC v2\IMC v2\obj\Debug\IMC v2.csproj.CoreCompileInputs.cache
+C:\Users\Endrew\Documents\GitHub\Basics-Projects-CSharp\IMC v2\IMC v2\obj\Debug\IMC v2.exe
+C:\Users\Endrew\Documents\GitHub\Basics-Projects-CSharp\IMC v2\IMC v2\obj\Debug\IMC v2.pdb
